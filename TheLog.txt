@@ -1,0 +1,204 @@
+﻿2013-06-06 14:26:22.4651|INFO|thread:1|GitHub.Extensions.ReactiveScreen|Closed GitHub.ViewModels.ShellViewModel.
+2013-06-06 14:17:51.8861|INFO|thread:1|GitHub.Models.UserSettings|Refreshing user settings
+2013-06-06 14:17:52.2321|INFO|thread:1|GitHub.Models.UserSettings|Refreshed user settings
+2013-06-06 14:17:52.2861|INFO|thread:1|GitHub.Models.RepositoryHostCollection|Cache did not contain any repository hosts.
+2013-06-06 14:17:52.4451|INFO|thread:7|GitHub.Helpers.PortablePackageManager|Examining package dir C:\Users\pierasm\AppData\Local\GitHub\Cef_115967
+2013-06-06 14:17:52.4671|INFO|thread:1|GitHub.Helpers.CommandLineHandler|Started app with command: 
+2013-06-06 14:17:52.4831|INFO|thread:1|GitHub.Helpers.CommandLineHandler|Parsing command line arguments:
+2013-06-06 14:17:52.4831|INFO|thread:1|GitHub.Helpers.CommandLineHandler|
+http://github-windows.s3.amazonaws.com/GitHub.application
+2013-06-06 14:17:52.4831|INFO|thread:1|GitHub.Helpers.AppInstanceCommunicator|Starting up as master instance of GitHub for Windows
+2013-06-06 14:17:52.5031|INFO|thread:1|GitHub.CacheMigrations.SharedCacheToHostCacheMigration|Migrating shared cache 'C:\Users\pierasm\AppData\Roaming\GitHub\BlobCache' to host-specific cache 'C:\Users\pierasm\AppData\Local\GitHub\BlobCache.api.github.com'.
+2013-06-06 14:17:52.5031|INFO|thread:1|GitHub.CacheMigrations.SharedCacheToHostCacheMigration|Shared cache 'C:\Users\pierasm\AppData\Roaming\GitHub\BlobCache' doesn't exist.
+2013-06-06 14:17:52.5031|INFO|thread:1|GitHub.CacheMigrations.SharedCacheToHostCacheMigration|Migrating shared cache 'C:\Users\pierasm\AppData\Local\GitHub\BlobCache' to host-specific cache 'C:\Users\pierasm\AppData\Roaming\GitHub\BlobCache.api.github.com'.
+2013-06-06 14:17:52.5031|INFO|thread:1|GitHub.CacheMigrations.SharedCacheToHostCacheMigration|Shared cache 'C:\Users\pierasm\AppData\Local\GitHub\BlobCache' doesn't exist.
+2013-06-06 14:17:52.9472|INFO|thread:1|GitHub.UI.Helpers.HardwareRenderingHelper|Your video card appears to support hardware rendering. If this isn't the case and you see glitches
+2013-06-06 14:17:52.9472|INFO|thread:1|GitHub.UI.Helpers.HardwareRenderingHelper|set the GH_FORCE_SW_RENDERING environment variable to 1
+2013-06-06 14:17:52.9472|INFO|thread:7|GitHub.AppStartup.StartupLogging| #########################################
+2013-06-06 14:17:52.9472|INFO|thread:7|GitHub.AppStartup.StartupLogging| GitHub for Windows started. VERSION: 1.0.48.0
+2013-06-06 14:17:52.9472|INFO|thread:7|GitHub.AppStartup.StartupLogging| Build version: 5e3c587512469a0360d1ec3def9136ad169bd5df
+2013-06-06 14:17:52.9472|INFO|thread:7|GitHub.AppStartup.StartupLogging| ***************************************
+2013-06-06 14:17:52.9472|INFO|thread:7|GitHub.AppStartup.StartupLogging| ***                                 ***
+2013-06-06 14:17:52.9472|INFO|thread:7|GitHub.AppStartup.StartupLogging| ***                                 ***
+2013-06-06 14:17:52.9472|INFO|thread:7|GitHub.AppStartup.StartupLogging| ***        Have a problem?          ***
+2013-06-06 14:17:52.9472|INFO|thread:7|GitHub.AppStartup.StartupLogging| ***    Email support@github.com     ***
+2013-06-06 14:17:52.9472|INFO|thread:7|GitHub.AppStartup.StartupLogging| ***      and include this file      ***
+2013-06-06 14:17:52.9472|INFO|thread:7|GitHub.AppStartup.StartupLogging| ***                                 ***
+2013-06-06 14:17:52.9472|INFO|thread:7|GitHub.AppStartup.StartupLogging| ***                                 ***
+2013-06-06 14:17:52.9472|INFO|thread:7|GitHub.AppStartup.StartupLogging| ***************************************
+2013-06-06 14:17:52.9472|INFO|thread:7|GitHub.AppStartup.StartupLogging| OS Version: Windows 7 Service Pack 1 6.1.7601.65536 x86
+2013-06-06 14:17:52.9472|INFO|thread:7|GitHub.AppStartup.StartupLogging| CLR Version: 4.0.30319.296
+2013-06-06 14:17:52.9472|INFO|thread:7|GitHub.AppStartup.StartupLogging| Current culture: en-GB
+2013-06-06 14:17:52.9472|INFO|thread:7|GitHub.AppStartup.StartupLogging| Terminal Services session: no
+2013-06-06 14:17:52.9472|INFO|thread:7|GitHub.AppStartup.StartupLogging| Location: C:\Users\pierasm\AppData\Local\Apps\2.0\6JNAT7B1.1X3\7EE28X1T.V67\gith..tion_317444273a93ac29_0001.0000_08490aa4380d2e54\GitHub.exe
+2013-06-06 14:17:53.0492|INFO|thread:7|GitHub.AppStartup.StartupLogging| ActivationUri: https://github-windows.s3.amazonaws.com/GitHub.application
+2013-06-06 14:17:53.0532|INFO|thread:1|GitHub.Helpers.ClickOnceAppIconHelper|Updating registry with our application icon 'C:\Users\pierasm\AppData\Local\Apps\2.0\6JNAT7B1.1X3\7EE28X1T.V67\gith..tion_317444273a93ac29_0001.0000_08490aa4380d2e54\Images\App.ico'
+2013-06-06 14:17:53.0532|INFO|thread:7|GitHub.PortableGit.Helpers.GitEnvironment|Process set up with this SSH Agent info: (null):(null)
+2013-06-06 14:17:53.0532|INFO|thread:7|GitHub.PortableGit.Helpers.GitEnvironment|PATH is C:\Users\pierasm\AppData\Local\GitHub\PortableGit_ca477551eeb4aea0e4ae9fcd3358bd96720bb5c8\cmd;C:\Users\pierasm\AppData\Local\GitHub\PortableGit_ca477551eeb4aea0e4ae9fcd3358bd96720bb5c8\bin;C:\Users\pierasm\AppData\Local\Apps\2.0\6JNAT7B1.1X3\7EE28X1T.V67\gith..tion_317444273a93ac29_0001.0000_08490aa4380d2e54;C:\Windows\Microsoft.NET\Framework\v4.0.30319;C:\Program Files\Google\Chrome\Application;C:\Program Files\Common Files\Microsoft Shared\Windows Live;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\WIDCOMM\Bluetooth Software\;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\Program Files\Intel\Services\IPT\;C:\Program Files\Dell\Dell Data Protection\Access\Advanced\Wave\Gemalto\Access Client\v5\;C:\Program Files\NTRU Cryptosystems\NTRU TCG Software Stack\bin\;C:\Program Files\Windows Live\Shared;C:\Program Files\Common Files\Roxio Shared\DLLShared\;C:\Program Files\Common Files\Roxio Shared\OEM\DLLShared\;C:\Program Files\Common Files\Roxio Shared\OEM\DLLShared\;C:\Program Files\Common Files\Roxio Shared\OEM\12.0\DLLShared\;C:\Program Files\Roxio\OEM\AudioCore\;C:\Program Files\Enterprise Vault\EVClient\;C:\Program Files\Microsoft SQL Server\100\Tools\Binn\;C:\Program Files\Microsoft SQL Server\100\DTS\Binn\;C:\Program Files\Microsoft SQL Server\100\Tools\Binn\VSShell\Common7\IDE\;C:\Program Files\Microsoft Visual Studio 9.0\Common7\IDE\PrivateAssemblies\
+2013-06-06 14:17:53.0532|INFO|thread:7|GitHub.AppStartup.StartupLogging| =====================================================
+2013-06-06 14:17:53.0532|INFO|thread:7|GitHub.AppStartup.StartupLogging|  DIAGNOSTICS                                        |
+2013-06-06 14:17:53.0532|INFO|thread:7|GitHub.AppStartup.StartupLogging| =====================================================
+2013-06-06 14:17:53.0532|INFO|thread:7|GitHub.AppStartup.StartupLogging| Git Extracted: 'False:
+2013-06-06 14:17:53.0682|ERROR|thread:7|GitHub.AppStartup.StartupLogging| MISSING PortableGit Dir: 'C:\Users\pierasm\AppData\Local\GitHub\PortableGit_ca477551eeb4aea0e4ae9fcd3358bd96720bb5c8'
+2013-06-06 14:17:53.0842|ERROR|thread:7|GitHub.PortableGit.Helpers.PortableGitManager|git.exe doesn't exist at 'C:\Users\pierasm\AppData\Local\GitHub\PortableGit_ca477551eeb4aea0e4ae9fcd3358bd96720bb5c8\bin\git.exe'
+2013-06-06 14:17:53.0842|ERROR|thread:7|GitHub.AppStartup.StartupLogging| MISSING Git Executable: 'C:\Users\pierasm\AppData\Local\GitHub\PortableGit_ca477551eeb4aea0e4ae9fcd3358bd96720bb5c8\bin\git.exe'
+2013-06-06 14:17:53.0842|ERROR|thread:7|GitHub.AppStartup.StartupLogging| MISSING PATH!!: 'C:\Users\pierasm\AppData\Local\GitHub\PortableGit_ca477551eeb4aea0e4ae9fcd3358bd96720bb5c8\cmd'
+2013-06-06 14:17:53.0842|ERROR|thread:7|GitHub.AppStartup.StartupLogging| MISSING PATH!!: 'C:\Users\pierasm\AppData\Local\GitHub\PortableGit_ca477551eeb4aea0e4ae9fcd3358bd96720bb5c8\bin'
+2013-06-06 14:17:53.0842|ERROR|thread:7|GitHub.AppStartup.StartupLogging| MISSING PATH!!: 'C:\Program Files\Common Files\Roxio Shared\OEM\DLLShared\'
+2013-06-06 14:17:53.0842|ERROR|thread:7|GitHub.AppStartup.StartupLogging| MISSING PATH!!: 'C:\Program Files\Common Files\Roxio Shared\OEM\DLLShared\'
+2013-06-06 14:17:53.0842|INFO|thread:7|GitHub.AppStartup.StartupLogging| ----------------------------------------------------
+2013-06-06 14:17:53.0842|INFO|thread:7|GitHub.AppStartup.StartupLogging| PATH: C:\Program Files\Google\Chrome\Application;C:\Program Files\Common Files\Microsoft Shared\Windows Live;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\WIDCOMM\Bluetooth Software\;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\Program Files\Intel\Services\IPT\;C:\Program Files\Dell\Dell Data Protection\Access\Advanced\Wave\Gemalto\Access Client\v5\;C:\Program Files\NTRU Cryptosystems\NTRU TCG Software Stack\bin\;C:\Program Files\Windows Live\Shared;C:\Program Files\Common Files\Roxio Shared\DLLShared\;C:\Program Files\Common Files\Roxio Shared\OEM\DLLShared\;C:\Program Files\Common Files\Roxio Shared\OEM\DLLShared\;C:\Program Files\Common Files\Roxio Shared\OEM\12.0\DLLShared\;C:\Program Files\Roxio\OEM\AudioCore\;C:\Program Files\Enterprise Vault\EVClient\;C:\Program Files\Microsoft SQL Server\100\Tools\Binn\;C:\Program Files\Microsoft SQL Server\100\DTS\Binn\;C:\Program Files\Microsoft SQL Server\100\Tools\Binn\VSShell\Common7\IDE\;C:\Program Files\Microsoft Visual Studio 9.0\Common7\IDE\PrivateAssemblies\
+2013-06-06 14:17:53.1642|INFO|thread:7|GitHub.Helpers.StartupLogger|Proxy information: (None)
+2013-06-06 14:17:53.1642|INFO|thread:7|GitHub.Helpers.StartupLogger|Couldn't fetch creds for proxy
+2013-06-06 14:17:53.1642|INFO|thread:7|GitHub.Helpers.UrlProtocolInstaller|Registered UrlAppLauncher protocol: "C:\Users\pierasm\AppData\Local\Apps\2.0\6JNAT7B1.1X3\7EE28X1T.V67\gith..tion_317444273a93ac29_0001.0000_08490aa4380d2e54\GitHub.exe" -u="%1"
+2013-06-06 14:17:53.1772|INFO|thread:7|GitHub.Helpers.ShortcutManager|Shortcut 'C:\Users\pierasm\AppData\Local\GitHub\GitHub.appref-ms' missing. Assuming a first run.
+2013-06-06 14:17:53.1772|INFO|thread:7|GitHub.Helpers.ShortcutManager|Copying the Start Menu shortcut 'C:\Users\pierasm\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\GitHub, Inc\GitHub.appref-ms' to 'C:\Users\pierasm\AppData\Local\GitHub\GitHub.appref-ms'
+2013-06-06 14:17:53.2442|INFO|thread:7|GitHub.Helpers.ShortcutManager|Saving the Git Shell shortcut C:\Users\pierasm\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\GitHub, Inc\Git Shell.lnk
+2013-06-06 14:17:53.2572|INFO|thread:7|GitHub.Helpers.ShortcutManager|Saving the Git Shell shortcut C:\Users\pierasm\Desktop\Git Shell.lnk
+2013-06-06 14:17:54.3063|WARN|thread:1|POCOObservableForProperty|GitHub.Views.UndoFlashView is a POCO type and won't send change notifications, WhenAny will only return a single value!
+2013-06-06 14:17:55.4584|INFO|thread:1|GitHub.Extensions.ReactiveScreen|Activating GitHub.ViewModels.ShellViewModel.
+2013-06-06 14:17:55.4584|INFO|thread:12|GitHub.ViewModels.GitExtractionVisualHelper|Attempting to extract Portable Git.
+2013-06-06 14:17:55.4584|INFO|thread:12|GitHub.IO.ObservableProcess|Starting: Process - Id: '(unknown)', Name: '(unknown)', FileName: 'C:\Users\pierasm\AppData\Local\Apps\2.0\6JNAT7B1.1X3\7EE28X1T.V67\gith..tion_317444273a93ac29_0001.0000_08490aa4380d2e54\7za.exe', Args: 'x -y "-oC:\Users\pierasm\AppData\Local\GitHub\gj3c5kqh.ukj" "C:\Users\pierasm\AppData\Local\Apps\2.0\6JNAT7B1.1X3\7EE28X1T.V67\gith..tion_317444273a93ac29_0001.0000_08490aa4380d2e54\PortableGit.7z"'
+2013-06-06 14:17:55.4714|INFO|thread:12|GitHub.Helpers.PortablePackageManager|Extracting PortableGit.7z is (so far) successful
+2013-06-06 14:17:55.5614|INFO|thread:1|GitHub.Extensions.ReactiveScreen|Activating GitHub.ViewModels.DashboardViewModel.
+2013-06-06 14:17:57.1806|WARN|thread:1|LogHost|SuppressChangeNotifications was called (perhaps via AddRange), yet you do not
+2013-06-06 14:17:57.1806|WARN|thread:1|LogHost|have a subscription to ShouldReset. This probably isn't what you want, as ItemsAdded
+2013-06-06 14:17:57.1806|WARN|thread:1|LogHost|and friends will appear to 'miss' items
+2013-06-06 14:17:57.7497|WARN|thread:1|POCOObservableForProperty|GitHub.Views.Controls.Login is a POCO type and won't send change notifications, WhenAny will only return a single value!
+2013-06-06 14:17:57.8487|WARN|thread:1|POCOObservableForProperty|GitHub.Views.WelcomeWizardView is a POCO type and won't send change notifications, WhenAny will only return a single value!
+2013-06-06 14:17:58.0397|INFO|thread:1|GitHub.Extensions.ReactiveScreen|Activating GitHub.ViewModels.WelcomeWizardViewModel.
+2013-06-06 14:18:03.1992|INFO|thread:12|GitHub.ViewModels.SoftwareUpdateViewModel|Checking for new version
+2013-06-06 14:18:34.2223|WARN|thread:3|GitHub.Api.Extensions.RestSharpObservableMixins|Response Failed: Status: 'Completed', StatusCode: 'Unauthorized', Uri: 'https://api.github.com/user', Body: '{"message":"Bad credentials"}'
+2013-06-06 14:18:34.2343|INFO|thread:3|GitHub.Extensions.ObservableEx|Request to https://api.github.com/user failed.
+GitHub.Api.ApiUnauthorizedWebException: Bad credentials
+2013-06-06 14:18:34.2343|WARN|thread:3|GitHub.Models.RepositoryHost|Logging in from cache failed. Could not get user from cache.
+GitHub.Api.ApiUnauthorizedWebException: Bad credentials
+2013-06-06 14:18:34.2433|WARN|thread:1|GitHub.Models.RepositoryHost|Logging in failed. Could not get user 'pierasrbe@gmail.com'.
+2013-06-06 14:18:40.5469|INFO|thread:7|GitHub.Helpers.PortablePackageManager|GitHub.IO.ObservableProcess
+2013-06-06 14:18:40.5579|INFO|thread:4|GitHub.Helpers.PortablePackageManager|Examining package dir C:\Users\pierasm\AppData\Local\GitHub\Cef_115967
+2013-06-06 14:18:40.5579|INFO|thread:4|GitHub.Helpers.PortablePackageManager|Examining package dir C:\Users\pierasm\AppData\Local\GitHub\PortableGit_ca477551eeb4aea0e4ae9fcd3358bd96720bb5c8
+2013-06-06 14:18:41.6260|INFO|thread:7|GitHub.Helpers.GitHubShellSetupHelper|Wrote GitHubShell setup script here 'C:\Users\pierasm\AppData\Local\GitHub\shell.ps1'
+2013-06-06 14:18:43.6823|WARN|thread:19|GitHub.Api.Extensions.RestSharpObservableMixins|Response Failed: Status: 'Completed', StatusCode: 'Unauthorized', Uri: 'https://api.github.com/user', Body: '{"message":"Bad credentials"}'
+2013-06-06 14:18:43.6823|INFO|thread:19|GitHub.Extensions.ObservableEx|Request to https://api.github.com/user failed.
+GitHub.Api.ApiUnauthorizedWebException: Bad credentials
+2013-06-06 14:18:43.6823|WARN|thread:19|GitHub.Models.RepositoryHost|Logging in from cache failed. Could not get user from cache.
+GitHub.Api.ApiUnauthorizedWebException: Bad credentials
+2013-06-06 14:18:43.6823|WARN|thread:1|GitHub.Models.RepositoryHost|Logging in failed. Could not get user 'pierasrbe@hotmail.com'.
+2013-06-06 14:19:17.2586|INFO|thread:1|GitHub.Models.RepositoryHost|Logging in succeeded. Saving credentials.
+2013-06-06 14:19:17.3146|WARN|thread:1|LogHost|SuppressChangeNotifications was called (perhaps via AddRange), yet you do not
+2013-06-06 14:19:17.3146|WARN|thread:1|LogHost|have a subscription to ShouldReset. This probably isn't what you want, as ItemsAdded
+2013-06-06 14:19:17.3146|WARN|thread:1|LogHost|and friends will appear to 'miss' items
+2013-06-06 14:19:17.3146|WARN|thread:1|LogHost|SuppressChangeNotifications was called (perhaps via AddRange), yet you do not
+2013-06-06 14:19:17.3146|WARN|thread:1|LogHost|have a subscription to ShouldReset. This probably isn't what you want, as ItemsAdded
+2013-06-06 14:19:17.3146|WARN|thread:1|LogHost|and friends will appear to 'miss' items
+2013-06-06 14:19:17.3736|WARN|thread:1|POCOObservableForProperty|System.Uri is a POCO type and won't send change notifications, WhenAny will only return a single value!
+2013-06-06 14:19:17.4246|INFO|thread:7|GitHub.Helpers.GitConfig|Reading global git configuration for user.name and user.email
+2013-06-06 14:19:17.4246|INFO|thread:7|GitHub.ConfigurationFactory|Didn't find '~/.gitconfig', creating one.
+2013-06-06 14:19:17.5566|INFO|thread:24|GitHub.ViewModels.ApplicationShellInitializer|Running post login tasks. ~/.gitconfig is set up with user.name = '' and user.email = ''
+2013-06-06 14:19:17.5566|INFO|thread:7|GitHub.Helpers.GitConfig|Reading global git configuration for user.name and user.email
+2013-06-06 14:19:17.5776|INFO|thread:7|GitHub.PortableGit.Helpers.SSHKeyHelper|Couldn't find SSH key pair, generating new ones
+2013-06-06 14:19:17.6396|INFO|thread:20|GitHub.ViewModels.DashboardViewModel|Refreshing list of repos
+2013-06-06 14:19:17.6586|INFO|thread:7|GitHub.PortableGit.Helpers.GitEnvironment|Process set up with this SSH Agent info: (null):(null)
+2013-06-06 14:19:17.6586|INFO|thread:7|GitHub.PortableGit.Helpers.GitEnvironment|PATH is C:\Users\pierasm\AppData\Local\GitHub\PortableGit_ca477551eeb4aea0e4ae9fcd3358bd96720bb5c8\cmd;C:\Users\pierasm\AppData\Local\GitHub\PortableGit_ca477551eeb4aea0e4ae9fcd3358bd96720bb5c8\bin;C:\Users\pierasm\AppData\Local\Apps\2.0\6JNAT7B1.1X3\7EE28X1T.V67\gith..tion_317444273a93ac29_0001.0000_08490aa4380d2e54;C:\Windows\Microsoft.NET\Framework\v4.0.30319;C:\Windows\System32
+2013-06-06 14:19:17.7047|INFO|thread:7|GitHub.IO.ObservableProcess|Starting: Process - Id: '(unknown)', Name: '(unknown)', FileName: 'C:\Users\pierasm\AppData\Local\GitHub\PortableGit_ca477551eeb4aea0e4ae9fcd3358bd96720bb5c8\bin\ssh-keygen.exe', Args: '-t rsa -N "" -f "C:\Users\pierasm\.ssh\github_rsa"'
+2013-06-06 14:19:18.0397|INFO|thread:20|GitHub.PortableGit.Helpers.SSHProcessManager|Starting ssh-agent.exe
+2013-06-06 14:19:18.0947|INFO|thread:20|GitHub.PortableGit.Helpers.GitEnvironment|Process set up with this SSH Agent info: (null):(null)
+2013-06-06 14:19:18.0947|INFO|thread:20|GitHub.PortableGit.Helpers.GitEnvironment|PATH is C:\Users\pierasm\AppData\Local\GitHub\PortableGit_ca477551eeb4aea0e4ae9fcd3358bd96720bb5c8\cmd;C:\Users\pierasm\AppData\Local\GitHub\PortableGit_ca477551eeb4aea0e4ae9fcd3358bd96720bb5c8\bin;C:\Users\pierasm\AppData\Local\Apps\2.0\6JNAT7B1.1X3\7EE28X1T.V67\gith..tion_317444273a93ac29_0001.0000_08490aa4380d2e54;C:\Windows\Microsoft.NET\Framework\v4.0.30319;C:\Windows\System32
+2013-06-06 14:19:18.0947|INFO|thread:20|GitHub.IO.ObservableProcess|Starting: Process - Id: '(unknown)', Name: '(unknown)', FileName: 'C:\Users\pierasm\AppData\Local\GitHub\PortableGit_ca477551eeb4aea0e4ae9fcd3358bd96720bb5c8\bin\ssh-agent.exe', Args: ''
+2013-06-06 14:19:19.3298|INFO|thread:20|GitHub.PortableGit.Helpers.GitEnvironment|Process set up with this SSH Agent info: 9148:/tmp/ssh-ypgPX11692/agent.11692
+2013-06-06 14:19:19.3298|INFO|thread:20|GitHub.PortableGit.Helpers.GitEnvironment|PATH is C:\Users\pierasm\AppData\Local\GitHub\PortableGit_ca477551eeb4aea0e4ae9fcd3358bd96720bb5c8\cmd;C:\Users\pierasm\AppData\Local\GitHub\PortableGit_ca477551eeb4aea0e4ae9fcd3358bd96720bb5c8\bin;C:\Users\pierasm\AppData\Local\Apps\2.0\6JNAT7B1.1X3\7EE28X1T.V67\gith..tion_317444273a93ac29_0001.0000_08490aa4380d2e54;C:\Windows\Microsoft.NET\Framework\v4.0.30319;C:\Windows\System32
+2013-06-06 14:19:19.3298|INFO|thread:20|GitHub.IO.ObservableProcess|Starting: Process - Id: '(unknown)', Name: '(unknown)', FileName: 'C:\Users\pierasm\AppData\Local\GitHub\PortableGit_ca477551eeb4aea0e4ae9fcd3358bd96720bb5c8\bin\ssh-add.exe', Args: '"C:\Users\pierasm\.ssh\github_rsa"'
+2013-06-06 14:19:19.3558|INFO|thread:4|GitHub.Api.GitHubClient|About to add SSH Key: GitHub for Windows - WIN7P-PIERASM - ssh-rsa AAAAB3NzaC1yc2EAAAABIwAAAQEAqoJyZ55MUZakOCK8ZW8yUXS8BxcVB3FHDWJ4g4X1MzqWBoin5SPpZzME5568xTYmIisiUJ5HaKadqfkmjuVXONz99kE2ffFlvK2gNbvyaMFKj9eZ5LWC8zWN+Dj2rkLdPGT+QtCaJPqhuGTRi3yDrDB5J6BAlma4ky7uiI5k629lbwynBM+n4rk6awFic4Y2pzg4B8XxHjgbNRGXRiXZuyF9G10AY4Db7CXlwuUiXG6NvjjxJ0pzlLvqRXV3QpgKed4F40oukwpVVfRdta88jYyi3aGatjDeahw2AAP6hSST0nf/dfp2JU0FiO5METaRnj0KFn1NrwH/ZlZTefuIVQ== pierasm@WIN7P-PIERASM
+
+2013-06-06 14:19:19.7949|WARN|thread:21|GitHub.Api.Extensions.RestSharpObservableMixins|Response Failed: Status: 'Completed', StatusCode: 'Created', Uri: 'https://api.github.com/user/keys', Body: '{"id":5002628,"key":"ssh-rsa AAAAB3NzaC1yc2EAAAABIwAAAQEAqoJyZ55MUZakOCK8ZW8yUXS8BxcVB3FHDWJ4g4X1MzqWBoin5SPpZzME5568xTYmIisiUJ5HaKadqfkmjuVXONz99kE2ffFlvK2gNbvyaMFKj9eZ5LWC8zWN+Dj2rkLdPGT+QtCaJPqhuGTRi3yDrDB5J6BAlma4ky7uiI5k629lbwynBM+n4rk6awFic4Y2pzg4B8XxHjgbNRGXRiXZuyF9G10AY4Db7CXlwuUiXG6NvjjxJ0pzlLvqRXV3QpgKed4F40oukwpVVfRdta88jYyi3aGatjDeahw2AAP6hSST0nf/dfp2JU0FiO5METaRnj0KFn1NrwH/ZlZTefuIVQ==","url":"https://api.github.com/user/keys/5002628","title":"GitHub for Windows - WIN7P-PIERASM","verified":true}'
+2013-06-06 14:19:19.7949|WARN|thread:21|GitHub.Api.Extensions.RestSharpObservableMixins|Response Failed: Status: 'Completed', StatusCode: 'Created', Uri: 'https://api.github.com/user/keys', Body: '{"id":5002628,"key":"ssh-rsa AAAAB3NzaC1yc2EAAAABIwAAAQEAqoJyZ55MUZakOCK8ZW8yUXS8BxcVB3FHDWJ4g4X1MzqWBoin5SPpZzME5568xTYmIisiUJ5HaKadqfkmjuVXONz99kE2ffFlvK2gNbvyaMFKj9eZ5LWC8zWN+Dj2rkLdPGT+QtCaJPqhuGTRi3yDrDB5J6BAlma4ky7uiI5k629lbwynBM+n4rk6awFic4Y2pzg4B8XxHjgbNRGXRiXZuyF9G10AY4Db7CXlwuUiXG6NvjjxJ0pzlLvqRXV3QpgKed4F40oukwpVVfRdta88jYyi3aGatjDeahw2AAP6hSST0nf/dfp2JU0FiO5METaRnj0KFn1NrwH/ZlZTefuIVQ==","url":"https://api.github.com/user/keys/5002628","title":"GitHub for Windows - WIN7P-PIERASM","verified":true}'
+2013-06-06 14:25:08.8378|INFO|thread:16|GitHub.Helpers.GitConfig|Saving global git configuration for user.name and user.email
+2013-06-06 14:25:08.8378|INFO|thread:16|GitHub.Helpers.GitConfig|Changing global git configuration for user.name. value = Miguel Pieras
+2013-06-06 14:25:08.8638|INFO|thread:16|GitHub.Helpers.GitConfig|Changing global git configuration for user.email. value = pierasm
+2013-06-06 14:25:14.7314|INFO|thread:1|GitHub.Extensions.ReactiveScreen|Deactivating GitHub.ViewModels.WelcomeWizardViewModel.
+2013-06-06 14:25:14.7314|INFO|thread:1|GitHub.Extensions.ReactiveScreen|Closed GitHub.ViewModels.WelcomeWizardViewModel.
+2013-06-06 14:25:18.6787|INFO|thread:1|GitHub.Extensions.ReactiveScreen|Activating GitHub.ViewModels.NewRepositoryViewModel.
+2013-06-06 14:26:17.1656|INFO|thread:1|GitHub.Extensions.ReactiveScreen|Deactivating GitHub.ViewModels.NewRepositoryViewModel.
+2013-06-06 14:26:17.1656|INFO|thread:1|GitHub.Extensions.ReactiveScreen|Closed GitHub.ViewModels.NewRepositoryViewModel.
+2013-06-06 14:26:22.4641|INFO|thread:1|GitHub.Extensions.ReactiveScreen|Deactivating GitHub.ViewModels.ShellViewModel.
+2013-06-06 14:26:22.4641|INFO|thread:1|GitHub.Extensions.ReactiveScreen|Deactivating GitHub.ViewModels.DashboardViewModel.
+2013-06-06 14:26:22.4641|INFO|thread:1|GitHub.Extensions.ReactiveScreen|Closed GitHub.ViewModels.DashboardViewModel.
+2013-06-07 10:45:30.0821|INFO|thread:1|GitHub.Extensions.ReactiveScreen|Closed GitHub.ViewModels.ShellViewModel.
+2013-06-07 10:45:14.8356|INFO|thread:1|GitHub.Models.UserSettings|Refreshing user settings
+2013-06-07 10:45:15.3437|INFO|thread:1|GitHub.Models.UserSettings|Refreshed user settings
+2013-06-07 10:45:15.3817|INFO|thread:1|GitHub.Models.RepositoryHostCollection|Cache did not contain any repository hosts.
+2013-06-07 10:45:15.4777|INFO|thread:6|GitHub.Helpers.PortablePackageManager|Examining package dir C:\Users\pierasm\AppData\Local\GitHub\Cef_115967
+2013-06-07 10:45:15.4777|INFO|thread:6|GitHub.Helpers.PortablePackageManager|Examining package dir C:\Users\pierasm\AppData\Local\GitHub\PortableGit_ca477551eeb4aea0e4ae9fcd3358bd96720bb5c8
+2013-06-07 10:45:15.4907|INFO|thread:1|GitHub.Helpers.CommandLineHandler|Started app with command: 
+2013-06-07 10:45:15.4907|INFO|thread:1|GitHub.Helpers.CommandLineHandler|Parsing command line arguments:
+2013-06-07 10:45:15.4907|INFO|thread:1|GitHub.Helpers.CommandLineHandler|
+C:\Users\pierasm\AppData\Local\Apps\2.0\6JNAT7B1.1X3\7EE28X1T.V67\gith..tion_317444273a93ac29_0001.0000_08490aa4380d2e54\GitHub.exe
+2013-06-07 10:45:15.4907|INFO|thread:1|GitHub.Helpers.AppInstanceCommunicator|Starting up as master instance of GitHub for Windows
+2013-06-07 10:45:15.5227|INFO|thread:1|GitHub.UI.Helpers.HardwareRenderingHelper|Your video card appears to support hardware rendering. If this isn't the case and you see glitches
+2013-06-07 10:45:15.5227|INFO|thread:1|GitHub.UI.Helpers.HardwareRenderingHelper|set the GH_FORCE_SW_RENDERING environment variable to 1
+2013-06-07 10:45:15.5227|INFO|thread:4|GitHub.AppStartup.StartupLogging| #########################################
+2013-06-07 10:45:15.5227|INFO|thread:4|GitHub.AppStartup.StartupLogging| GitHub for Windows started. VERSION: 1.0.48.0
+2013-06-07 10:45:15.5227|INFO|thread:4|GitHub.AppStartup.StartupLogging| Build version: 5e3c587512469a0360d1ec3def9136ad169bd5df
+2013-06-07 10:45:15.5227|INFO|thread:4|GitHub.AppStartup.StartupLogging| ***************************************
+2013-06-07 10:45:15.5227|INFO|thread:4|GitHub.AppStartup.StartupLogging| ***                                 ***
+2013-06-07 10:45:15.5227|INFO|thread:4|GitHub.AppStartup.StartupLogging| ***                                 ***
+2013-06-07 10:45:15.5227|INFO|thread:4|GitHub.AppStartup.StartupLogging| ***        Have a problem?          ***
+2013-06-07 10:45:15.5227|INFO|thread:4|GitHub.AppStartup.StartupLogging| ***    Email support@github.com     ***
+2013-06-07 10:45:15.5227|INFO|thread:4|GitHub.AppStartup.StartupLogging| ***      and include this file      ***
+2013-06-07 10:45:15.5227|INFO|thread:4|GitHub.AppStartup.StartupLogging| ***                                 ***
+2013-06-07 10:45:15.5227|INFO|thread:4|GitHub.AppStartup.StartupLogging| ***                                 ***
+2013-06-07 10:45:15.5227|INFO|thread:4|GitHub.AppStartup.StartupLogging| ***************************************
+2013-06-07 10:45:15.5227|INFO|thread:4|GitHub.AppStartup.StartupLogging| OS Version: Windows 7 Service Pack 1 6.1.7601.65536 x86
+2013-06-07 10:45:15.5227|INFO|thread:4|GitHub.AppStartup.StartupLogging| CLR Version: 4.0.30319.296
+2013-06-07 10:45:15.5227|INFO|thread:4|GitHub.AppStartup.StartupLogging| Current culture: en-GB
+2013-06-07 10:45:15.5227|INFO|thread:4|GitHub.AppStartup.StartupLogging| Terminal Services session: no
+2013-06-07 10:45:15.5227|INFO|thread:4|GitHub.AppStartup.StartupLogging| Location: C:\Users\pierasm\AppData\Local\Apps\2.0\6JNAT7B1.1X3\7EE28X1T.V67\gith..tion_317444273a93ac29_0001.0000_08490aa4380d2e54\GitHub.exe
+2013-06-07 10:45:15.5637|INFO|thread:4|GitHub.AppStartup.StartupLogging| ActivationUri: https://github-windows.s3.amazonaws.com/GitHub.application
+2013-06-07 10:45:15.6267|INFO|thread:4|GitHub.IO.SshAgentBridge|ssh-agent is not running
+2013-06-07 10:45:15.6267|INFO|thread:4|GitHub.PortableGit.Helpers.GitEnvironment|Process set up with this SSH Agent info: (null):(null)
+2013-06-07 10:45:15.6267|INFO|thread:4|GitHub.PortableGit.Helpers.GitEnvironment|PATH is C:\Users\pierasm\AppData\Local\GitHub\PortableGit_ca477551eeb4aea0e4ae9fcd3358bd96720bb5c8\cmd;C:\Users\pierasm\AppData\Local\GitHub\PortableGit_ca477551eeb4aea0e4ae9fcd3358bd96720bb5c8\bin;C:\Users\pierasm\AppData\Local\Apps\2.0\6JNAT7B1.1X3\7EE28X1T.V67\gith..tion_317444273a93ac29_0001.0000_08490aa4380d2e54;C:\Windows\Microsoft.NET\Framework\v4.0.30319;C:\Program Files\Common Files\Microsoft Shared\Windows Live;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\WIDCOMM\Bluetooth Software\;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\Program Files\Intel\Services\IPT\;C:\Program Files\Dell\Dell Data Protection\Access\Advanced\Wave\Gemalto\Access Client\v5\;C:\Program Files\NTRU Cryptosystems\NTRU TCG Software Stack\bin\;C:\Program Files\Windows Live\Shared;C:\Program Files\Common Files\Roxio Shared\DLLShared\;C:\Program Files\Common Files\Roxio Shared\OEM\DLLShared\;C:\Program Files\Common Files\Roxio Shared\OEM\DLLShared\;C:\Program Files\Common Files\Roxio Shared\OEM\12.0\DLLShared\;C:\Program Files\Roxio\OEM\AudioCore\;C:\Program Files\Enterprise Vault\EVClient\;C:\Program Files\Microsoft SQL Server\100\Tools\Binn\;C:\Program Files\Microsoft SQL Server\100\DTS\Binn\;C:\Program Files\Microsoft SQL Server\100\Tools\Binn\VSShell\Common7\IDE\;C:\Program Files\Microsoft Visual Studio 9.0\Common7\IDE\PrivateAssemblies\
+2013-06-07 10:45:15.6267|INFO|thread:4|GitHub.AppStartup.StartupLogging| =====================================================
+2013-06-07 10:45:15.6267|INFO|thread:4|GitHub.AppStartup.StartupLogging|  DIAGNOSTICS                                        |
+2013-06-07 10:45:15.6267|INFO|thread:4|GitHub.AppStartup.StartupLogging| =====================================================
+2013-06-07 10:45:15.6897|INFO|thread:4|GitHub.AppStartup.StartupLogging| Git Extracted: 'True:
+2013-06-07 10:45:15.6897|INFO|thread:4|GitHub.AppStartup.StartupLogging| PortableGit Dir Exists: 'C:\Users\pierasm\AppData\Local\GitHub\PortableGit_ca477551eeb4aea0e4ae9fcd3358bd96720bb5c8'
+2013-06-07 10:45:15.6947|INFO|thread:4|GitHub.AppStartup.StartupLogging| Git Executable Exists: 'C:\Users\pierasm\AppData\Local\GitHub\PortableGit_ca477551eeb4aea0e4ae9fcd3358bd96720bb5c8\bin\git.exe'
+2013-06-07 10:45:15.6947|ERROR|thread:4|GitHub.AppStartup.StartupLogging| MISSING PATH!!: 'C:\Program Files\Common Files\Roxio Shared\OEM\DLLShared\'
+2013-06-07 10:45:15.6947|ERROR|thread:4|GitHub.AppStartup.StartupLogging| MISSING PATH!!: 'C:\Program Files\Common Files\Roxio Shared\OEM\DLLShared\'
+2013-06-07 10:45:15.6947|INFO|thread:4|GitHub.AppStartup.StartupLogging| ----------------------------------------------------
+2013-06-07 10:45:15.6947|INFO|thread:4|GitHub.AppStartup.StartupLogging| PATH: C:\Program Files\Common Files\Microsoft Shared\Windows Live;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\WIDCOMM\Bluetooth Software\;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\Program Files\Intel\Services\IPT\;C:\Program Files\Dell\Dell Data Protection\Access\Advanced\Wave\Gemalto\Access Client\v5\;C:\Program Files\NTRU Cryptosystems\NTRU TCG Software Stack\bin\;C:\Program Files\Windows Live\Shared;C:\Program Files\Common Files\Roxio Shared\DLLShared\;C:\Program Files\Common Files\Roxio Shared\OEM\DLLShared\;C:\Program Files\Common Files\Roxio Shared\OEM\DLLShared\;C:\Program Files\Common Files\Roxio Shared\OEM\12.0\DLLShared\;C:\Program Files\Roxio\OEM\AudioCore\;C:\Program Files\Enterprise Vault\EVClient\;C:\Program Files\Microsoft SQL Server\100\Tools\Binn\;C:\Program Files\Microsoft SQL Server\100\DTS\Binn\;C:\Program Files\Microsoft SQL Server\100\Tools\Binn\VSShell\Common7\IDE\;C:\Program Files\Microsoft Visual Studio 9.0\Common7\IDE\PrivateAssemblies\
+2013-06-07 10:45:16.0367|INFO|thread:4|GitHub.Helpers.StartupLogger|Proxy information: (None)
+2013-06-07 10:45:16.0367|INFO|thread:4|GitHub.Helpers.StartupLogger|Couldn't fetch creds for proxy
+2013-06-07 10:45:16.0367|INFO|thread:4|GitHub.Helpers.UrlProtocolInstaller|URL Protocol already registered
+2013-06-07 10:45:16.0667|INFO|thread:1|GitHub.Helpers.ClickOnceAppIconHelper|Updating registry with our application icon 'C:\Users\pierasm\AppData\Local\Apps\2.0\6JNAT7B1.1X3\7EE28X1T.V67\gith..tion_317444273a93ac29_0001.0000_08490aa4380d2e54\Images\App.ico'
+2013-06-07 10:45:17.2609|WARN|thread:1|POCOObservableForProperty|GitHub.Views.UndoFlashView is a POCO type and won't send change notifications, WhenAny will only return a single value!
+2013-06-07 10:45:17.7299|INFO|thread:1|GitHub.ViewModels.GitExtractionVisualHelper|Portable Git is already extracted
+2013-06-07 10:45:17.9029|INFO|thread:7|GitHub.Helpers.PortablePackageManager|Examining package dir C:\Users\pierasm\AppData\Local\GitHub\Cef_115967
+2013-06-07 10:45:17.9029|INFO|thread:7|GitHub.Helpers.PortablePackageManager|Examining package dir C:\Users\pierasm\AppData\Local\GitHub\PortableGit_ca477551eeb4aea0e4ae9fcd3358bd96720bb5c8
+2013-06-07 10:45:18.5540|INFO|thread:1|GitHub.Extensions.ReactiveScreen|Activating GitHub.ViewModels.ShellViewModel.
+2013-06-07 10:45:18.6690|INFO|thread:1|GitHub.ViewModels.DashboardViewModel|Logging in from cache.
+2013-06-07 10:45:18.7450|INFO|thread:1|GitHub.Extensions.ReactiveScreen|Activating GitHub.ViewModels.DashboardViewModel.
+2013-06-07 10:45:21.1932|WARN|thread:1|LogHost|SuppressChangeNotifications was called (perhaps via AddRange), yet you do not
+2013-06-07 10:45:21.1932|WARN|thread:1|LogHost|have a subscription to ShouldReset. This probably isn't what you want, as ItemsAdded
+2013-06-07 10:45:21.1932|WARN|thread:1|LogHost|and friends will appear to 'miss' items
+2013-06-07 10:45:21.2743|INFO|thread:4|GitHub.Helpers.GitConfig|Reading global git configuration for user.name and user.email
+2013-06-07 10:45:21.3273|WARN|thread:1|LogHost|SuppressChangeNotifications was called (perhaps via AddRange), yet you do not
+2013-06-07 10:45:21.3273|WARN|thread:1|LogHost|have a subscription to ShouldReset. This probably isn't what you want, as ItemsAdded
+2013-06-07 10:45:21.3273|WARN|thread:1|LogHost|and friends will appear to 'miss' items
+2013-06-07 10:45:21.6333|INFO|thread:14|GitHub.ViewModels.ApplicationShellInitializer|Running post login tasks. ~/.gitconfig is set up with user.name = 'Miguel Pieras' and user.email = 'pierasm'
+2013-06-07 10:45:21.7083|INFO|thread:3|GitHub.IO.SshAgentBridge|ssh-agent is not running
+2013-06-07 10:45:21.7083|INFO|thread:3|GitHub.PortableGit.Helpers.SSHKeyHelper|Found existing SSH key pair
+2013-06-07 10:45:21.7083|INFO|thread:6|GitHub.PortableGit.Helpers.SSHProcessManager|Starting ssh-agent.exe
+2013-06-07 10:45:21.7153|INFO|thread:6|GitHub.Helpers.PortablePackageManager|Already extracted PortableGit.7z, returning 100%
+2013-06-07 10:45:21.7153|INFO|thread:6|GitHub.IO.SshAgentBridge|ssh-agent is not running
+2013-06-07 10:45:21.7153|INFO|thread:6|GitHub.PortableGit.Helpers.GitEnvironment|Process set up with this SSH Agent info: (null):(null)
+2013-06-07 10:45:21.7153|INFO|thread:6|GitHub.PortableGit.Helpers.GitEnvironment|PATH is C:\Users\pierasm\AppData\Local\GitHub\PortableGit_ca477551eeb4aea0e4ae9fcd3358bd96720bb5c8\cmd;C:\Users\pierasm\AppData\Local\GitHub\PortableGit_ca477551eeb4aea0e4ae9fcd3358bd96720bb5c8\bin;C:\Users\pierasm\AppData\Local\Apps\2.0\6JNAT7B1.1X3\7EE28X1T.V67\gith..tion_317444273a93ac29_0001.0000_08490aa4380d2e54;C:\Windows\Microsoft.NET\Framework\v4.0.30319;C:\Windows\System32
+2013-06-07 10:45:21.8443|INFO|thread:6|GitHub.IO.ObservableProcess|Starting: Process - Id: '(unknown)', Name: '(unknown)', FileName: 'C:\Users\pierasm\AppData\Local\GitHub\PortableGit_ca477551eeb4aea0e4ae9fcd3358bd96720bb5c8\bin\ssh-agent.exe', Args: ''
+2013-06-07 10:45:23.6005|INFO|thread:6|GitHub.PortableGit.Helpers.GitEnvironment|Process set up with this SSH Agent info: 8440:/tmp/ssh-yxgJEb8816/agent.8816
+2013-06-07 10:45:23.6005|INFO|thread:6|GitHub.PortableGit.Helpers.GitEnvironment|PATH is C:\Users\pierasm\AppData\Local\GitHub\PortableGit_ca477551eeb4aea0e4ae9fcd3358bd96720bb5c8\cmd;C:\Users\pierasm\AppData\Local\GitHub\PortableGit_ca477551eeb4aea0e4ae9fcd3358bd96720bb5c8\bin;C:\Users\pierasm\AppData\Local\Apps\2.0\6JNAT7B1.1X3\7EE28X1T.V67\gith..tion_317444273a93ac29_0001.0000_08490aa4380d2e54;C:\Windows\Microsoft.NET\Framework\v4.0.30319;C:\Windows\System32
+2013-06-07 10:45:23.6145|INFO|thread:6|GitHub.IO.ObservableProcess|Starting: Process - Id: '(unknown)', Name: '(unknown)', FileName: 'C:\Users\pierasm\AppData\Local\GitHub\PortableGit_ca477551eeb4aea0e4ae9fcd3358bd96720bb5c8\bin\ssh-add.exe', Args: '"C:\Users\pierasm\.ssh\github_rsa"'
+2013-06-07 10:45:26.0787|INFO|thread:6|GitHub.ViewModels.SoftwareUpdateViewModel|Checking for new version
+2013-06-07 10:45:30.0561|INFO|thread:19|GitHub.ViewModels.DashboardViewModel|Refreshing list of repos
+2013-06-07 10:45:30.0821|INFO|thread:1|GitHub.Extensions.ReactiveScreen|Deactivating GitHub.ViewModels.ShellViewModel.
+2013-06-07 10:45:30.0821|INFO|thread:1|GitHub.Extensions.ReactiveScreen|Deactivating GitHub.ViewModels.DashboardViewModel.
+2013-06-07 10:45:30.0821|INFO|thread:1|GitHub.Extensions.ReactiveScreen|Closed GitHub.ViewModels.DashboardViewModel.
